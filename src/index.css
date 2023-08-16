@@ -1,9 +1,54 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
 
+
+
+.root {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+
+}
+
 .script-font {
   font-family: "Great Vibes", cursive;
 }
 
 .post-image-height {
   height: 250px;
+}
+
+.NavBar-style {
+  border: 4px;
+  border-style: 0;
+  border-color: red;
+  border-width: 5px;
+  margin-left: 20%;
+  padding: 10px;
+}
+
+.Header-style {
+
+  font-family: "Great Vibes", cursive;
+  border: 4px;
+  border-style: groove;
+  border-color: slategrey;
+  border-width: 40%;
+  padding: 10px;
+  text-align: center;
+  background-color: lightgray
+}
+
+
+.Seattle-style {
+
+  border: 3px;
+
+}
+
+.footer {
+  display: flex;
+  border: 30px solid orange;
+  background-color: orange;
+  margin-top: 100%;
+
 }
