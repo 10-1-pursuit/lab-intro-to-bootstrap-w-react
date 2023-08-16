@@ -24,7 +24,7 @@ const Searchbar = () => {
         posts.filter((location) => {
 
 
-            return location.name.match(searchByLocation);
+            return location.match(searchByLocation);
 
         });
 
@@ -32,7 +32,7 @@ const Searchbar = () => {
 
     return (
         <div className="searchbar-style">
-            <button> Submit </button>
+            <button> Search </button>
             <input
                 type="text"
                 placeholder="Search by Location"

@@ -19,10 +19,10 @@
 
 .NavBar-style {
   border: 4px;
-  border-style: dotted;
+  border-style: 0;
   border-color: red;
   border-width: 5px;
-  margin-left: 10%;
+  margin-left: 20%;
   padding: 10px;
 }
 

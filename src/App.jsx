@@ -28,7 +28,7 @@ function App() {
 
           <Routes>
 
-            <Route path="/" element={<h1>Go to Post</h1>} />
+            <Route path="/" element={<h1></h1>} />
           </Routes>
           <Footer />
         </main>
