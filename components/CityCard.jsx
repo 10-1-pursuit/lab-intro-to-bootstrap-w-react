@@ -1,7 +1,10 @@
 import React from "react";
 import { useState } from "react";
 import posts from "../src/data/posts.json"
+import "./CityCard.css"
 
+
+// const posts = posts.json;
 
 function CityCard() {
     const [trackSelectedPostID, setTrackSelectedPostID] = useState(null);
@@ -29,6 +32,7 @@ function CityCard() {
 
         )
     )
+
 };
 
 export default CityCard;
