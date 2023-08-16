@@ -2,6 +2,9 @@ import React from "react";
 
 
 
+import { Link } from "react-router-dom";
+
+
 
 
 function NavBar() {
@@ -14,11 +17,13 @@ function NavBar() {
 
                 <div className="NavBar-style">
 
+
                     <nav>
-                        <a href="#"> About Us </a>
-                        <a href="#"> Popular Posts </a>
+                        <Link to="/"> About Us </Link>
+                        <Link to="/"> Popular Posts </Link>
 
                     </nav>
+
 
                 </div>
 

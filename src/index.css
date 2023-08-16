@@ -29,6 +29,12 @@
   background-color: lightgray
 }
 
+.Seattle-style {
+
+  border: 3px;
+
+}
+
 .footer {
   display: flex;
   border: 30px solid orange;
