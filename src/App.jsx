@@ -18,9 +18,9 @@ function App() {
           <NavBar />
           <Header />
           <button className="btn">hi</button>
-          <div>
-            {<CityCard />}
-          </div>
+
+          <CityCard />
+
           <Routes>
 
             <Route path="/" element={<h1>Go to Post</h1>} />

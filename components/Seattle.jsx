@@ -1,13 +1,12 @@
 
 
-// import { useState } from "react-router-dom";
+
 
 
 
 
 function Seattle() {
 
-    // const [goToPost, SetGoToPost] = useState("");
 
 
 
@@ -17,7 +16,7 @@ function Seattle() {
             <h4>Sunny Day in Seattle</h4>
             <h6> Seattle</h6>
             <button className="Post1-btn" type="submit" >Go to Post</button>
-            {/* onClick={{ goToPost }} onChange={}  */}
+
         </div>
 
 

@@ -21,7 +21,8 @@ function CityCard() {
 
                 )
                 }
-                > {trackSelectedPostID === eachPost.id ? "Go to Post" : "Go back to Main Page"}
+                >
+                    {trackSelectedPostID === eachPost.id ? "Go to Post" : "Return to Main Page"}
                 </button>
 
             </div >
