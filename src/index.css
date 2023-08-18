@@ -1,8 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
 
-.script-font {
+/* .script-font, h1 {
   font-family: "Great Vibes", cursive;
-}
+} */
+
+ /* span {
+  font-family: system-ui;
+ } */
 
 .post-image-height {
   height: 250px;
