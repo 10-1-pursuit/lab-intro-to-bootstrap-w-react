@@ -1,4 +1,5 @@
 # Bootstrap CSS Lab
+DEPLOYED(https://poetic-nougat-9f5853.netlify.app/)
 
 Bootstrap is a powerful CSS framework used on [many well-known websites](https://w3techs.com/technologies/overview/css_framework). When working on the job, typically, there is a separate design team that will design the look and feel of the website. They will create mockups with other tools and your job will be to make a functional website matching their designs as accurately as possible. In this lab, you have been given the designs and you will utilize Bootstrap to design the front-page of a travel blog with two differently styled views: desktop and mobile.
 
