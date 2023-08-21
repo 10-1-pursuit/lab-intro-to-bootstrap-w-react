@@ -7,3 +7,7 @@
 .post-image-height {
   height: 250px;
 }
+
+.container-fluid{color: red; display:flex; padding: 20px;} 
+
+/* .script-font{text-align: center; border:5px solid palegoldenrod;height: 60px;}  */
